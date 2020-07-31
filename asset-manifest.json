@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactmaxeon/static/css/main.c85cbdf9.chunk.css",
+    "main.js": "/reactmaxeon/static/js/main.323b4a52.chunk.js",
+    "main.js.map": "/reactmaxeon/static/js/main.323b4a52.chunk.js.map",
+    "runtime-main.js": "/reactmaxeon/static/js/runtime-main.980c3850.js",
+    "runtime-main.js.map": "/reactmaxeon/static/js/runtime-main.980c3850.js.map",
+    "static/js/2.9b4228cc.chunk.js": "/reactmaxeon/static/js/2.9b4228cc.chunk.js",
+    "static/js/2.9b4228cc.chunk.js.map": "/reactmaxeon/static/js/2.9b4228cc.chunk.js.map",
+    "index.html": "/reactmaxeon/index.html",
+    "precache-manifest.360ecac249e68ec82567d4f1901c1e37.js": "/reactmaxeon/precache-manifest.360ecac249e68ec82567d4f1901c1e37.js",
+    "service-worker.js": "/reactmaxeon/service-worker.js",
+    "static/css/main.c85cbdf9.chunk.css.map": "/reactmaxeon/static/css/main.c85cbdf9.chunk.css.map",
+    "static/js/2.9b4228cc.chunk.js.LICENSE.txt": "/reactmaxeon/static/js/2.9b4228cc.chunk.js.LICENSE.txt",
+    "static/media/Banner.png": "/reactmaxeon/static/media/Banner.4a6ebd5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980c3850.js",
+    "static/js/2.9b4228cc.chunk.js",
+    "static/css/main.c85cbdf9.chunk.css",
+    "static/js/main.323b4a52.chunk.js"
+  ]
+}
