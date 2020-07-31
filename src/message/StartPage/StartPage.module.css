@@ -1,0 +1,17 @@
+.Modal {
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    height: 55%;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    top: 35%;
+    width: 380px;
+    left: 1050px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    transition: all 0.3s ease-out;
+    overflow: auto;
+}
+

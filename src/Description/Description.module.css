@@ -1,0 +1,21 @@
+.desc {
+    font-weight: bolder;
+    padding: 200px;
+    color: white;
+    position: fixed;
+    font-size: 70px;
+}
+
+.button {
+    background-color: white; /* Green */
+    border: none;
+    color:black;
+    padding: 5px;
+    text-align: center;
+    font-size: 26px;
+    margin: 0px 25px;
+    cursor: pointer;
+    border-radius: 12px;
+    position: fixed;
+  }
+
